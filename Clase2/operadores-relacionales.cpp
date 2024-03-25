@@ -15,7 +15,7 @@ int main() {
     cout <<resultado  << endl;
 
     int ingresoPorTeclado = 0;
-    cout <<"Ingrese un resultado" << endl;
+    cout <<"Ingrese un número: " << endl;
 
     cin >> ingresoPorTeclado;
     resultado = ingresoPorTeclado == VALOR;
