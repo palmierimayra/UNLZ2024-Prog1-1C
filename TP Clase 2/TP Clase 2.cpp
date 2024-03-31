@@ -109,7 +109,7 @@ getline(cin, pais);
 cout << "Ingresa un numero de telefono:" << endl;
 getline(cin, telefono);
 
-cout << "Te llamas " << nombre << " " << apellido << " tienes " << edad << " años. Vives en " << direccion << " en la localidad de " << localidad << ", provincia de " << provincia << " en " << pais << ". Tu numero de telefono es " << telefono << ". ¡Es un gusto conocerte!" << endl;
+cout << "Te llamas " << nombre << " " << apellido << " y tienes " << edad << " años. Vives en " << direccion << " en la localidad de " << localidad << ", provincia de " << provincia << ", " << pais << ". Tu numero de telefono es " << telefono << ". ¡Es un gusto conocerte!" << endl;
 
 return 0;
 
