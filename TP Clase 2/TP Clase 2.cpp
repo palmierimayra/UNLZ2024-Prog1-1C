@@ -52,7 +52,7 @@ std::cout << std::endl;
 float lado = 0;
 float altura = 0;
 
-cout << "Ingrese medida de uno de los lados:" << endl;
+cout << "Ingrese la medida de uno de los lados:" << endl;
 cin >> lado;
 cout << "Ingrese la altura del triangulo:" << endl;
 cin >> altura;
